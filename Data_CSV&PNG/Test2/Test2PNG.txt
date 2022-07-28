@@ -1,0 +1,29 @@
+Number of samples : 30
+
+Log settings
+  Number of logs
+     Total            : 30
+     Once             : 1
+  Logging interval    : 0 s
+
+Setting
+  Format              : Distance(Polar)
+  Mode                : Normal
+  Exposure time       : 800 us
+  Frame rate limiter  : 10 fps
+  Amplitude minimum
+     All  range       : 3
+     Near range       : 3
+  Rotation angle
+     x                : 0
+     y                : 0
+     z                : 0
+  LED freq. ID        : 6
+  Pilot LED           : ON
+  Response speed
+     Data size        : 16 KB
+     Interval         : 0 us
+  ENR threshold       : 200
+
+
+
