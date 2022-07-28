@@ -1,4 +1,4 @@
-# b5l_serial_app
+# b5l_serial_app and 3D Viewer
 Basic stuff for b5l OMRON ToF sensor
 
 The B5L camera works on all platerforms but take care to use ubuntu for the Open3D library, and check /Doc/b5l_info_com to connect it properly.
